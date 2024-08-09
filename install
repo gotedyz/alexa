@@ -1,0 +1,12 @@
+
+apt install zip
+python3 -m venv sdk
+source sdk/bin/activate
+pip3 install ask-sdk
+
+pip3 install pandas
+pip3 install api-canvas-lms
+apt install zip
+
+vi lambda_function.py
+
